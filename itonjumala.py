@@ -147,4 +147,4 @@ intents = discord.Intents.default()
 intents.message_content = True
 
 bot = MyClient(intents=intents)
-bot.run("MTE3NzAwOTc4NTI3OTg5MzYxNA.GivzOW.-CgbCZFCjSzwWHiSs9ak0e7vKNtWTgj_27UObM")
+bot.run(token)
